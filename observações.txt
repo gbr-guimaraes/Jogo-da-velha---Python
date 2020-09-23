@@ -1,0 +1,23 @@
+1) Alterar o programa para no final mostrar o vencedor e a quantidade de jogadas que ele usou para vencer
+
+
+2) Criar um esquema de pontuação para o jogo: 100 se vencer em apenas 3 jogadas, 80 se vencer em 4 jogadas e 40 se vencer em 5 ou mais jogadas
+
+3) Colocar um menu com as opções 1 - Jogar e 2 - Mostrar Ranking e 3 - Sair
+
+4)  O ranking deverá listar as 10 maiores pontuações com as iniciais dos jogadores
+
+5) Ao terminar o jogo a pontuação do jogador deverá ir para o ranking
+
+6) O ranking deverá ser persistente, ou seja, gravado em banco de dados ou arquivo texto.
+
+Exemplo de Ranking
+
+1 - TBM - 100
+2 - XYZ - 80
+3 - AAA - 80
+4 - TTT - 40
+
+
+
+
