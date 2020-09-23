@@ -6,7 +6,7 @@ from ranking import exibirRanking
 
 #---------------------------------
 # Programa de Jogo da velha
-# Tiago Bacciotti Moreira - 28/agosto/2020
+# Gabriel Guimarães Felix - 23/setembro/2020
 #---------------------------------
 def main():
     """Rotina principal do jogo da velha
